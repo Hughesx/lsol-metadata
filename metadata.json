@@ -1,0 +1,17 @@
+{
+  "name": "LockedSol",
+  "symbol": "LSOL",
+  "description": "Locked SOL representation token. LSOL represents SOL locked in a vault system.",
+  "image": "https://raw.githubusercontent.com/Hughesx/lsol-metadata/main/logo.png",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Vault Receipt Token"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Solana Devnet/Mainnet"
+    }
+  ]
+}
