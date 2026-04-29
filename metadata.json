@@ -1,7 +1,7 @@
 {
-  "name": "LockedSol",
-  "symbol": "LSOL",
-  "description": "Locked SOL representation token. LSOL represents SOL locked in a vault system.",
+  "name": "WrappedSol",
+  "symbol": "wSOL",
+  "description": "wrapped SOL representation token in a vault system.",
   "image": "https://raw.githubusercontent.com/Hughesx/lsol-metadata/main/logo.png",
   "external_url": "",
   "attributes": [
